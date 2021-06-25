@@ -1,0 +1,157 @@
+﻿  collectible.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(21,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(22,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  enemyAI.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(27,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(28,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  graphics.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\graphics.cpp(18,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\graphics.cpp(26,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\graphics.cpp(34,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  heartCollectible.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(21,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(22,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  sensorObject.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(27,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(28,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(21,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(22,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  player.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(27,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(28,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\player.cpp(685,41): warning C4305: 'argument': truncation from 'double' to 'float32'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\player.cpp(801,39): warning C4804: '-': unsafe use of type 'bool' in operation
+  resourcesManager.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\resourcesManager.cpp(27,16): warning C4996: 'std::shared_ptr<sf::Texture>::unique': warning STL4016: std::shared_ptr::unique() is deprecated in C++17. You can define _SILENCE_CXX17_SHARED_PTR_UNIQUE_DEPRECATION_WARNING or _SILENCE_ALL_CXX17_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+  sensorContactListener.cpp
+  SFMLDebugDraw.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(21,78): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(21,69): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(21,60): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(30,99): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(30,90): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(30,81): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(40,99): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(40,90): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(40,81): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(48,37): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(57,62): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(57,53): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(57,44): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(65,38): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(70,88): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(70,79): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(70,70): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(75,62): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(75,53): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(75,44): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(90,80): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(90,71): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(90,62): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(91,80): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(91,71): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\SFMLDebugDraw.cpp(91,62): warning C4244: 'argument': conversion from 'const float32' to 'sf::Uint8', possible loss of data
+  dynamicBlock.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\dynamicBlock.cpp(43,21): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\dynamicBlock.cpp(115,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  game.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(27,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(28,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(21,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(22,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\game.h(50,55): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(72,13): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(73,13): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(307,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(315,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(323,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(331,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(338,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(339,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(345,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(347,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(363,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(371,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(379,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(387,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(401,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(411,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(417,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(419,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(425,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(427,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(433,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(435,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(441,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(451,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(457,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(459,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(479,26): warning C4305: 'argument': truncation from 'double' to 'float32'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(480,28): warning C4305: 'argument': truncation from 'double' to 'float32'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(481,28): warning C4305: 'argument': truncation from 'double' to 'float32'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(482,25): warning C4305: 'argument': truncation from 'double' to 'float32'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(506,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(508,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(514,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(516,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(567,303): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(571,303): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(576,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(584,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(585,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(590,12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(607,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(615,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(623,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(638,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(646,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(648,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(654,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(664,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(688,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(690,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(696,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(698,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\src\game.cpp(736,23): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  main.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(27,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\character.h(28,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(21,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(22,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\game.h(50,55): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  staticBlock.cpp
+  staticConvex.cpp
+  staticSensor.cpp
+  swordCollectible.cpp
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(21,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\bbp24\Desktop\Project\assessment\Platformer\include\collectible.h(22,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Platformer.vcxproj -> C:\Users\bbp24\Desktop\Project\assessment\Platformer\..\bin\19 - Joints and Rays\19 - Joints and Rays.exe

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{89AF369E-F58E-B539-FEA6-40106A051C9B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{2DAB880B-99B4-887C-2230-9F7C8E38947C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\SFMLDebugDraw.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\dynamicBlock.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\game.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\physicalThing.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\staticBlock.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\staticConvex.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\graphics.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\enemyAI.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\player.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\character.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\resourcesManager.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sensorContactListener.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\staticSensor.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sensorObject.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\heartCollectible.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\collectible.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\swordCollectible.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\SFMLDebugDraw.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\dynamicBlock.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\staticBlock.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\staticConvex.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphics.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\enemyAI.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\player.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\resourcesManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sensorContactListener.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\staticSensor.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sensorObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\heartCollectible.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\collectible.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\swordCollectible.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
